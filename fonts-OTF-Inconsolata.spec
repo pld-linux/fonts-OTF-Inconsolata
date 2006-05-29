@@ -16,7 +16,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_otffontsdir	%{_fontsdir}/OTF
 
 %description
-Inconsolata is a monospace font, designed for code listings and the like, in print. There are a great many "programmer fonts," designed primarily for use on the screen, but in most cases do not have the attention to detail for high resolution rendering.
+Inconsolata is a monospace font, designed for code listings and the
+like, in print. There are a great many "programmer fonts," designed
+primarily for use on the screen, but in most cases do not have the
+attention to detail for high resolution rendering.
 
 %prep
 %setup -q -c -T
