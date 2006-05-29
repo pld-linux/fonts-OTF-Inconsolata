@@ -3,7 +3,7 @@ Summary:	High-resolution code font
 Name:		fonts-OTF-Inconsolata
 Version:	001.000
 Release:	1
-License:	GPL
+License:	Unknown (Will be GPL or SIL Open Font License when finished)
 Group:		Fonts
 Source0:	http://www.levien.com/type/myfonts/%{_name}.otf
 # Source0-md5:	dc1e556d2fab230145c1cc2df466ec07
