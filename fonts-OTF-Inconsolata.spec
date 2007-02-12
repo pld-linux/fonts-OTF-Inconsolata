@@ -1,6 +1,6 @@
 %define		_name	Inconsolata
 Summary:	High-resolution code font
-Summary(pl):	Wysokiej rozdzielczo∂ci font do kodu
+Summary(pl.UTF-8):   Wysokiej rozdzielczo≈õci font do kodu
 Name:		fonts-OTF-Inconsolata
 Version:	001.000
 Release:	1
@@ -22,12 +22,12 @@ like, in print. There are a great many "programmer fonts," designed
 primarily for use on the screen, but in most cases do not have the
 attention to detail for high resolution rendering.
 
-%description -l pl
-Inconsolata to font o sta≥ej szeroko∂ci zaprojektowany do wydrukÛw
-listingÛw kodu i podobnych celÛw. Jest wiele dobrych "fontÛw
-programistÛw" zaprojektowanych g≥Ûwnie do uøywania na ekranie, ale w
-wiÍkszo∂ci przypadkÛw nie s± dopracowane pod k±tem wysokiej
-rozdzielczo∂ci.
+%description -l pl.UTF-8
+Inconsolata to font o sta≈Çej szeroko≈õci zaprojektowany do wydruk√≥w
+listing√≥w kodu i podobnych cel√≥w. Jest wiele dobrych "font√≥w
+programist√≥w" zaprojektowanych g≈Ç√≥wnie do u≈ºywania na ekranie, ale w
+wiƒôkszo≈õci przypadk√≥w nie sƒÖ dopracowane pod kƒÖtem wysokiej
+rozdzielczo≈õci.
 
 %prep
 %setup -q -c -T
