@@ -1,6 +1,6 @@
 %define		_name	Inconsolata
 Summary:	High-resolution code font
-Summary(pl.UTF-8):   Wysokiej rozdzielczości font do kodu
+Summary(pl.UTF-8):	Wysokiej rozdzielczości font do kodu
 Name:		fonts-OTF-Inconsolata
 Version:	001.000
 Release:	1
