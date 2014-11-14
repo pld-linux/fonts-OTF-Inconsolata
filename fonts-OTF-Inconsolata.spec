@@ -3,11 +3,11 @@ Summary:	High-resolution code font
 Summary(pl.UTF-8):	Wysokiej rozdzielczości font do kodu
 Name:		fonts-OTF-Inconsolata
 Version:	001.000
-Release:	1
+Release:	2
 License:	Unknown (Will be GPL or SIL Open Font License when finished)
 Group:		Fonts
 Source0:	http://www.levien.com/type/myfonts/%{_name}.otf
-# Source0-md5:	dc1e556d2fab230145c1cc2df466ec07
+# Source0-md5:	0fbe014c1f0fb5e3c71140ff0dc63edf
 URL:		http://www.levien.com/type/myfonts/inconsolata.html
 Requires(post,postun):	fontpostinst
 Requires:	%{_fontsdir}/OTF
