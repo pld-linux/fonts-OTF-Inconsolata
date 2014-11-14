@@ -30,7 +30,6 @@ większości przypadków nie są dopracowane pod kątem wysokiej
 rozdzielczości.
 
 %prep
-%setup -q -c -T
 
 %install
 rm -rf $RPM_BUILD_ROOT
@@ -49,4 +48,4 @@ fontpostinst OTF
 
 %files
 %defattr(644,root,root,755)
-%{_otffontsdir}/*
+%{_otffontsdir}/Inconsolata.otf
